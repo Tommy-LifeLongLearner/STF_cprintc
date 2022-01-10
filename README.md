@@ -30,3 +30,7 @@ Grey, Yellow, Red, Green, Blue and White
 ## Extend the library with other colors
 
 To add custom colors you should define them in the header using the correct values
+
+## Documentation
+
+For more infos read the [docs](https://github.com/Tommy-LifeLongLearner/STF_cprintc/wiki/Documentation)
