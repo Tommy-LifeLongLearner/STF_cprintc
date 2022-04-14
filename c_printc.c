@@ -1,4 +1,4 @@
-#include "stf-printc.h"
+#include "c_printc.h"
 
 void printc(int color, char *output, ...) {    
   va_list args;

@@ -1,5 +1,5 @@
-#ifndef STF_PRINTC_H
-#define STF_PRINTC_H
+#ifndef PRINTC_H
+#define PRINTC_H
 
 #if defined _WIN32 || defined _WIN64
   #include <windows.h>
@@ -23,4 +23,4 @@
 
 void printc(int color, char *output, ...);
 
-#endif //STF_PRINTC_H
+#endif //PRINTC_H
