@@ -1,4 +1,4 @@
-# STF C print colored output
+# C print colored output
 
 ## Introduction
 
@@ -6,9 +6,9 @@ This is a simple library for printing colored output to the console in **c**
 
 ## Usage
 
-Include the `stf-printc.h` header file
+Include the `c_printc.h` header file
 ```c
-#include "stf-printc.h"
+#include "c_printc.h"
 ```
 Print some colored text
 ```c
@@ -33,4 +33,4 @@ To add custom colors you should define them in the header using the correct valu
 
 ## Documentation
 
-For more infos read the [docs](https://github.com/Tommy-LifeLongLearner/STF_cprintc/wiki/Documentation)
+For more infos read the [docs](https://github.com/Tommy-LifeLongLearner/c_printc/wiki/Documentation)
